@@ -1,7 +1,7 @@
 # NameGenerator
 Creates quick 3-5 character random name based loosely on English consonant and vowel rules
 
-See it in action: 
+See it in action: .io page coming soon.
 
 ###### Some names this might generate:
 
