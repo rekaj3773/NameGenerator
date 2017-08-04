@@ -1,6 +1,8 @@
 # NameGenerator
 Creates quick 3-5 character random name based loosely on English consonant and vowel rules
 
+See it in action: .io page coming soon.
+
 ###### Some names this might generate:
 
 - Moj 
@@ -50,6 +52,7 @@ Don't remember how to use Regular Expressions *(like me always forgetting)*, che
 
 
 Prefer to see it broken out visually, check it out on [Regulex](https://jex.im/regulex/?#!embed=false&flags=&re=(%5Baeiouy%5D%5Bbcdfghjklmnpqrstvwxz%5D(%5Bbcdfghjklmnpqrstvwxz%5D(%5Baeiouy%5D%5Bbcdfghjklmnpqrstvwxz%5D%3F)%3F%7C%5Baeiouy%5D(%5Bbcdfghjklmnpqrstvwxz%5D(%5Bbcdfghjklmnpqrstvwxz%5D%7C%5Baeiouy%5D)%3F)%3F)%7C%5Bbcdfghjklmnpqrstvwxz%5D%5Baeiouy%5D%5Bbcdfghjklmnpqrstvwxz%5D(%5Baeiouy%5D(%5Bbcdfghjklmnpqrstvwxz%5D)%3F%7C%5Bbcdfghjklmnpqrstvwxz%5D(%5Baeiouy%5D)%3F)%3F)) *(I love this tool.)*
+![alt text](https://github.com/rekaj3773/NameGenerator/blob/modify-readme/regulex.png "Image of the RegEx from Regulex.com")
 
 
 
