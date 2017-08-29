@@ -1,7 +1,7 @@
-# NameGenerator
+#  [NameGenerator](https://rekaj3773.github.io/randomgenerator.html)
 Creates quick 3-5 character random name based loosely on English consonant and vowel rules
 
-See it in action: .io page coming soon.
+See it in action: [Random Name Generator](https://rekaj3773.github.io/randomgenerator.html)
 
 ###### Some names this might generate:
 
